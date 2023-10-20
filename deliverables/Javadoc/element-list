@@ -1,0 +1,10 @@
+it.polimi.ingsw
+it.polimi.ingsw.controller
+it.polimi.ingsw.distributed.Messages
+it.polimi.ingsw.distributed.RMI
+it.polimi.ingsw.distributed.RMI.Disconnection
+it.polimi.ingsw.distributed.socket
+it.polimi.ingsw.exceptions
+it.polimi.ingsw.model
+it.polimi.ingsw.util
+it.polimi.ingsw.view
